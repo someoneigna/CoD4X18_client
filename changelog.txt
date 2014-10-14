@@ -1,0 +1,40 @@
+In this file I'm going to list info about updates and changes.
+
+
+
+Version: 1.8X 1.0    Release: 14th October 2014
+=========================================================================================================================================================================================
+-> No crash after downloading content.
+-> No crash when the recording device is missing. This fixes the no microphone crash issue.
+-> No CDKEY stealing - Client will disconnect you when a server tries to open the CDKEY-Menu.
+-> IPv6 networking has been added. Yes you can now connect to a server with such an address: [2001:41d0:8:1b2c::1]:28961
+-> User Stats won't get encoded anymore.
+-> Modded servers are now in serverbrowser displayed again properly.
+-> You can display an external console.
+-> Updateoption from Main-Menu.
+-> Fix a bug introduced in prior update which caused some elements of scoreboard not to be centered.
+-> Sending to server current version in connect packet.
+-> Added automatic centering of the window if game runs in windowed mode without a border.
+-> Scoreboard show now the currently active server map.
+-> Sometimes DirectX reports 512k audiodevices and this resulted in a black screen. If this is the case it will read this as 0 deviced.
+-> Userprofiles getting now stored into the AppData\Local\CallofDuty4MW\players directory on Windows7. Prior usersettings/stats are now handled as read only and won't get destroyed.
+-> Fixed a bug which resulted in totally corrupted rcon when using CoD4X client.
+-> New cvar r_noborder added. Setting r_noborder=1 and r_fullscreen=0 results in a window without the borders.
+-> Linking .dm_1 files with CoD4. Demos can be played now with a doubleclick on this filetype.
+-> Playing demos located into main/demos load now like they are supposed to work (no mod needed).
+-> Implementing the protocol cod4. For example cod4://server-ctg.mnxclan.com:28961 is now a valid url for connecting.
+-> Doesn't raise an error in the event an invalid sampler get used. It will just print to console instead.
+-> Fix for not properly stored CDKEYs.
+-> Fix for improper www-download request.
+-> Fix for autoupdater.
+-> Fix for the ALT-Key bug.
+-> Fix for selecting playerprofile twice.
+-> Hide servers which promoting more than 64 players/slots.
+-> Build version string which is seen atm. in lower right corner will change now in order to prevent more confusion about which version is really active.
+-> Displaying numbers of players above 128 players properly in ingame server browser.
+-> Modified update facility a bit so that a hash compare of downloaded files can be done.
+-> Repaired an issue with the internal updater facility.
+-> Modifications should now disable them self when running other programs needing mss32.dll like mp_tool.exe
+-> CoD4X 1.8 Server compatibility added.
+-> Fixed protocol version mismatch.
+-> Fix a bug with +sysconsole which crashed the server.
