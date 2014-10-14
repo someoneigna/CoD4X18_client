@@ -23,18 +23,18 @@ Maxmind GeoIP is copyrighted by "MaxMind LLC".
 
 
 |HOW TO INSTALL|
-1. Go to your CoD4 installation directory.
-2. Rename the file "mss32.dll" into "miles32.dll"
-3. Copy the new "mss32.dll" you have downloaded to your CoD4 installation directory.
-4. Backup your profiles folder. [in case of any emergency]
-5. It is done. Now Run your CoD4 to see the changes!
+Go to your CoD4 installation directory.
+Rename the file "mss32.dll" into "miles32.dll"
+Copy the new "mss32.dll" you have downloaded to your CoD4 installation directory.
+Backup your profiles folder. [in case of any emergency]
+It is done. Now Run your CoD4 to see the changes!
 
 |HOW TO UNINSTALL|
-1. Go into your CoD4 installation directory.
-2. Delete mss32.dll
-3. Rename the file "miles32.dll" into "mss32.dll"
-4. Restore your backed up profiles folder.
-5. It is done. Now Run your CoD4 to restore your previous 1.7 patch!
+Go into your CoD4 installation directory.
+Delete mss32.dll
+Rename the file "miles32.dll" into "mss32.dll"
+Restore your backed up profiles folder.
+It is done. Now Run your CoD4 to restore your previous 1.7 patch!
 
 |HOW TO SHOW EXTERNAL CONSOLE|
 Start CoD4 with the following commandline: iw3mp.exe +sysconsole
