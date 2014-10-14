@@ -20,7 +20,9 @@ Large portions of CoD4X are copyrighted by "Id Software, Inc."
 Several portions are part of the "ioQuake-3 project".
 Maxmind GeoIP is copyrighted by "MaxMind LLC".
 
-
+|HOW TO INSTALL|
+1. Go To
+2. Self Do
 
 |HOW TO INSTALL|
 Go to your CoD4 installation directory.
