@@ -22,15 +22,15 @@ Maxmind GeoIP is copyrighted by "MaxMind LLC".
 
 
 |HOW TO INSTALL|
-#1 Go to your CoD4 installation directory.
-#2 Rename the file "mss32.dll" into "miles32.dll"
-#3 Copy the new "mss32.dll" you have downloaded to your CoD4 installation directory.
-#4 Backup your profiles folder. [in case of any emergency]
+#1 Download the CoD4X 1.8 Patch.exe installer from mnxclan.com
+#2 Open the installer and proceed with the installation process.
+#3 Please manually select your cod4 installation directory during the setup and make sure the setup files goes directly to your cod4 directory.
+#4 Backup your profiles folder before installation. [in case of any emergency]
 #5 It is done. Now Run your CoD4 to see the changes!
 
 |HOW TO UNINSTALL|
 #1 Go into your CoD4 installation directory.
-#2 Delete mss32.dll
+#2 Delete mss32.dll and main/localized_english_iw07.iwd
 #3 Rename the file "miles32.dll" into "mss32.dll"
 #4 Restore your backed up profiles folder.
 #5 It is done. Now Run your CoD4 to restore your previous 1.7 patch!
