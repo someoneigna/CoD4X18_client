@@ -1,6 +1,18 @@
 In this file I'm going to list info about updates and changes.
 
 
+Version: 1.8X 1.1    Release: 20th October 2014
+=========================================================================================================================================================================================
+-> Hosting with promod and some other mod gives an loop error: RECONNECT TO THE SERVER [Solved]
+-> When refreshing local servers or internet servers after 1 refresh sometimes no server shows until the next 5 refreshes. As bug reported in Issue #1 on Github [Solved]
+-> Awaiting connection sometimes goes to 5 where it should connect to the server at awiting connection 4 or less. As bug reported in Issue #1 on Github [Solved]
+-> Auto minimizes when connecting to a server due to execcive sync limit. As bug reported in Issue #1 on Github [Managed]
+-> New Promod Map [map mp_marketcenter] added to impure client system. Fast download for the map has been added. External map dvars included with some custom server-side dvars [New]
+-> New Promod Map [map mp_cluster] added to impure client system. Fast download for the map has been added. External map dvars included with some custom server-side dvars [New]
+-> New Promod Map [map mp_backlot_2] added to impure client system. Fast download for the map has been added. External map dvars included with some custom server-side dvars [New]
+-> New Promod Map [map mp_nuketown] added to impure client system. Fast download for the map has been added. External map dvars included with some custom server-side dvars [New]
+-> New CoD4X Client Updater Added for high speed downloading of all the development updates of CoD4X Client [New]
+-> New Client CFG added to manage the overall client performance with 1.8 patch. [New]
 
 Version: 1.8X 1.0    Release: 14th October 2014
 =========================================================================================================================================================================================

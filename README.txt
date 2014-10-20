@@ -13,19 +13,26 @@ If you find any bugs, please create an issue here on github.
 
 COPYRIGHT
 =========
-CoD4X is copyrighted by Ninja and TheKelm of IceOps
+CoD4X is copyrighted by Ninja And TheKelm
 Large portions of CoD4X are copyrighted by "Id Software, Inc."
 Several portions are part of the "ioQuake-3 project".
 Maxmind GeoIP is copyrighted by "MaxMind LLC".
 
 
 
+|UPDATER|
+#1 If you don't have the updater then download it from our website and place it on your cod4 installation directory.
+#2 Run the updater and if the updater say a new update is available then use the update button to download the latest updates.
+#3 After downloading the latest updates the updates will be automatically place on your cod4 directory's updates folder.
+#4 Then navigate to the updates folder and install the latest update.
+#5 It is done. Now Run your CoD4 with the command iw3mp.exe +exec client.cfg to see the changes!
+
 |HOW TO INSTALL|
 #1 Download the CoD4X 1.8 Patch.exe installer from mnxclan.com
 #2 Open the installer and proceed with the installation process.
 #3 Please manually select your cod4 installation directory during the setup and make sure the setup files goes directly to your cod4 directory.
 #4 Backup your profiles folder before installation. [in case of any emergency]
-#5 It is done. Now Run your CoD4 to see the changes!
+#5 It is done. Now Run your CoD4 with the command iw3mp.exe +exec client.cfg to see the changes!
 
 |HOW TO UNINSTALL|
 #1 Go into your CoD4 installation directory.
@@ -33,11 +40,13 @@ Maxmind GeoIP is copyrighted by "MaxMind LLC".
 #3 Rename the file "miles32.dll" into "mss32.dll"
 #4 Restore your backed up profiles folder.
 #5 It is done. Now Run your CoD4 to restore your previous 1.7 patch!
+[The uninstalltion process will partially uninstall the CoD4X 1.8 Client from your cod4 game]
 
 |HOW TO SHOW EXTERNAL CONSOLE|
-Start CoD4 with the following commandline: iw3mp.exe +sysconsole
+Start CoD4 with the following commandline: iw3mp.exe +sysconsole +exec client.cfg
 
 
+Always try to add the commands stated in client.cfg to your profiles config file to not execute the client.cfg everytime while running cod4.
 Please report new bugs. Report crashes (On which server and how it has happend)
 Also report changed things which are quite obvious to a usual player. To report simply create an issue here on github or contact us in uG! Clan 24/7 BD TeamSpeak Server!!!
 
