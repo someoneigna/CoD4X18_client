@@ -1,6 +1,20 @@
 In this file I'm going to list info about updates and changes.
 
 
+
+Version: 1.8X 1.2    Release: 15th November 2014
+=========================================================================================================================================================================================
+-> CoD4X 1.8 Client Patch Updater 11% download stuck problem fixed. [Solved]
+-> New Legacy Punkbuster Support Added. [New]
+-> Some force dvars have been set to the client.cfg file for smoother performance. [Managed]
+-> Some default and popular mods added to the cod4x support. [New]
+-> License agreement upgraded. [New]
+-> New CoD4X Logo attached to the cod4 bitmap. [New]
+-> servercache.dat upgrade to cache the most new servers without further problem. [Fixed]
+-> Shortcut added to the desktop after installation. [New]
+-> miles32.dll or the MAD Sound System file has been upgraded to MW2 MAD for better sound quality. [New]
+-> uG! Anti-Cheat support added. [New]
+
 Version: 1.8X 1.1    Release: 20th October 2014
 =========================================================================================================================================================================================
 -> Hosting with promod and some other mod gives an loop error: RECONNECT TO THE SERVER [Solved]
