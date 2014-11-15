@@ -13,7 +13,8 @@ If you find any bugs, please create an issue here on github.
 
 COPYRIGHT
 =========
-CoD4X is copyrighted by Ninja And TheKelm
+CoD4X is copyrighted by Ninja, TheKelm & Macarov
+Some portions of CoD4X are copyrighted by uG! Clan.
 Large portions of CoD4X are copyrighted by "Id Software, Inc."
 Several portions are part of the "ioQuake-3 project".
 Maxmind GeoIP is copyrighted by "MaxMind LLC".
