@@ -14,6 +14,7 @@ If you find any bugs, please create an issue here on github.
 COPYRIGHT
 =========
 CoD4X is copyrighted by Macarov, HowDy & fReaker of UnderGround !nfinity
+Large portions of CoD4X Client are copyrighted by Ninja of IceOps
 Large portions of CoD4X are copyrighted by "Id Software, Inc."
 Several portions are part of the "ioQuake-3 project".
 Maxmind GeoIP is copyrighted by "MaxMind LLC".
@@ -44,7 +45,6 @@ Maxmind GeoIP is copyrighted by "MaxMind LLC".
 
 |HOW TO SHOW EXTERNAL CONSOLE|
 Start CoD4 with the following command-line: +sysconsole +exec client.cfg
-
 
 Always try to add the commands stated in client.cfg to your profiles config file which will allow you to remove the execution of the client.cfg everytime while running cod4.
 Please report new bugs. Report crashes (On which server and how it has happened)
